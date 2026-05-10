@@ -1,7 +1,10 @@
 ## Hi there, I'm Ananda Muhammad Zahir (Nanda) 👋 
 
 ```bash
-I am a Solution & Front-End Engineer bridging the gap between complex business needs and technical execution. With over a year of experience, I specialize in building robust B2B applications using a hybrid approach of custom software and low-code platforms. 
+I am a Solution & Front-End Engineer bridging the gap between complex business needs and technical 
+execution. With over a year of experience,
+I specialize in building robust B2B applications using a hybrid 
+approach of custom software and low-code platforms. 
 ```
 
 
