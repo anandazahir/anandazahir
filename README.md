@@ -21,13 +21,6 @@ approach of custom software and low-code platforms.
 * **Workflow Automation & Low-Code:** n8n, Make, Activepieces, Mekari Officeless
 * **Architecture & Collaboration:** REST APIs, Git/Bitbucket, Agile Methodology 
 
----
-
-### 💼 Experience Highlights
-* **Solution Engineer @ Mekari** (03/2025 - Present).
-* **Freelance Frontend Developer @ PT Garbantara Depo** (06/2023 - 08/2024): Built responsive, user-friendly interfaces, wrote efficient code, and integrated designs with back-end APIs.
-* **Network Field Engineer Internship @ Jakarta Smart City** (12/2022 - 02/2023).
-* **Creative Media Division @ GDSC Diponegoro University** (11/2022 - 11/2023).
 
 ---
 
